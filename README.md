@@ -1,7 +1,10 @@
 # Bird Species Prediction With Deployment
 
 Bird Species Prediction<br>
-In this project, I will create a model which will be able to predict species of the bird.<br>
+
+In this project, I made a model which will be able to predict species of the birds and then deploy it.<br>
+<img src = 'Bird Species.png'><br><br>
+
 this is multiclass classification problem, the classes in the data:<br><br>
 **1 - American Goldfinch**<br><br>
 <img src = 'Data/Bird Speciees Dataset/AMERICAN GOLDFINCH/001.jpg'><br><br>
