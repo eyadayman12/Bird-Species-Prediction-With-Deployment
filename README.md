@@ -2,7 +2,7 @@
 
 Bird Species Prediction<br>
 
-In this project, I made a model which will be able to predict species of the birds and then deploy it.<br>
+In this project, I made a model which will be able to predict species of the birds and then deploy it.<br><br>
 <img src = 'Deploymen Photo.png'><br><br>
 
 this is multiclass classification problem, the classes in the data:<br><br>
